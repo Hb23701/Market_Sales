@@ -1,0 +1,16 @@
+Transaction_id,customer_name,member_id,product_id,Item,transaction_type,product_price
+TRN_2743,Lee,MEM_39,9,butter,Sales,4.10
+TRN_2743,Lee,MEM_39,9,butter,Sales,4.10
+TRN_2743,Lee,MEM_39,9,butter,Refund,4.10
+TRN_2743,Lee,MEM_39,22,cheese,Sales,5.10
+TRN_2743,Lee,MEM_39,22,cheese,Sales,5.10
+TRN_2743,Lee,MEM_39,23,cake,Sales,4.10
+TRN_2743,Lee,MEM_39,23,cake,Refund,7.10
+TRN_2744,Elle,MEM_42,28,chocolate,Sales,4.10
+TRN_2744,Elle,MEM_42,40,bananas,Sales,0.99
+TRN_2744,Elle,MEM_42,29,apples,Sales,2.99
+TRN_2744,Elle,MEM_42,29,apples,Sales,2.99
+TRN_2744,Elle,MEM_42,38,pears,Sales,2.99
+TRN_2744,Elle,MEM_42,39,strawberries,Sales,4.99
+TRN_2744,Elle,MEM_42,39,strawberries,Sales,4.99
+TRN_2744,Elle,MEM_42,39,strawberries,Refund,4.99

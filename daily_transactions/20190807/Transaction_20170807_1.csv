@@ -1,0 +1,6 @@
+Transaction_id,customer_name,member_id,product_id,Item,transaction_type,product_price
+TRN_2738,Alex,MEM_36,34,shirt,Sales,23.10 
+TRN_2726,Mona,,15,milk,Sales,5.78 
+TRN_2567,John,MEM_56,26,soap,Sales,7.00 
+TRN_2738,Alex,MEM_36,34,shirt,Refund,23.10
+TRN_2739,Alex,MEM_36,34,shirt,Sales,23.10 
